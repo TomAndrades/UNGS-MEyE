@@ -1,0 +1,4 @@
+# Ignora la carpeta con la informacion de los multimetros
+
+informacionDeMultimetros
+.spyproject
